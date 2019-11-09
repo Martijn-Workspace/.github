@@ -3,8 +3,3 @@ people:
     role: admin
   - username: mvegter-test
     role: member
-
-teams:
-  - name: core
-    description: The core development team
-    maintainers: mvegter-test
