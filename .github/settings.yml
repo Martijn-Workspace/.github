@@ -1,5 +1,5 @@
 repository:
   # Either `true` to enable issues for this repository, `false` to disable them.
-  has_issues: true
+  has_issues: false
   
   topics: martijn, test
