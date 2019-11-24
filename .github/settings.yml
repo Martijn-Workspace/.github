@@ -7,3 +7,6 @@ repository:
 labels:
   - name: feature
     description: New functionality
+
+  - name: feature2
+    description: New functionality2
