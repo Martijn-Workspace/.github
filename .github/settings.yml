@@ -3,3 +3,7 @@ repository:
   has_issues: false
   
   topics: martijn, test
+
+labels:
+  - name: feature
+    description: New functionality.
